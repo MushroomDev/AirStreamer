@@ -7,9 +7,9 @@
    安装转换插件 brew install mkvtoolnix<br>
    打开系统终端 <br>
    mkvmerge -o 合成的文件路径.mkv 源视频文件路径.mkv 源视频字幕路径.srt<br>
-   
+
    例如:<br>
-   mkvmerge -o '/Users/**/Movies/output.mkv' '/Users/**/Movies/inputput.mp4' '/Users/**/Movies/inputput.srt'<br>
+   mkvmerge -o '/Users/111/Movies/output.mkv' '/Users/111/Movies/inputput.mp4' '/Users/111/Movies/inputput.srt'<br>
 
 
 ## 为什么投屏了之后,电脑休眠了之后视频断开了呢?
