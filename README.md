@@ -12,6 +12,7 @@
    mkvmerge -o '/Users/111/Movies/output.mkv' '/Users/111/Movies/inputput.mp4' '/Users/111/Movies/inputput.srt'<br>
 
    我做了一个程序可以给视频添加字幕的, 请下载[链接](SubMerger.app)
+   下载 SubMerger.app 后拖到 应用里面就可以使用了
 ## 为什么投屏了之后,电脑休眠了之后视频断开了呢?
    因为电脑休眠后网络连接断开导致,解决: 系统->能源与节能->设置自动休眠长些时间
 
